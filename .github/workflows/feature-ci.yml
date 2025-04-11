@@ -3,7 +3,7 @@ name: Feature cicd development
 on: 
   push: 
     branches:
-      - 'feature/*'
+      - '*'
 
 jobs: 
   ci:
